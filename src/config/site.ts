@@ -1,17 +1,17 @@
 export const siteConfig = {
-    name: "Case Based",
-    url: "https://casebased.com/",
-    ogImage: "https://casebased.com/og.jpg",
-    description:
-        "Teaching Machine Learning intuitively and with care",
-    navigation: {
-        docs: "/docs",
-        examples: "/examples",
-        roadmaps: "/roadmaps",
-    },
-    external: {
-        github: "https://github.com/lukasklockenhoff",
-    },
-}
+  name: "Case Based",
+  url: "https://casebased.org/",
+  ogImage: "https://casebased.org/og.png",
+  description:
+    "Teaching and learning resources for case-based learning in computer science.",
+  navigation: {
+    docs: "/docs",
+    examples: "/examples",
+    roadmaps: "/roadmaps",
+  },
+  external: {
+    github: "https://github.com/lukasklockenhoff",
+  },
+};
 
-export type SiteConfig = typeof siteConfig
+export type SiteConfig = typeof siteConfig;
