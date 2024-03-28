@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b856d8af-1b02-46a5-901f-d6cd92e166ba" name="Changes" comment="feat:init">
+      <change afterPath="$PROJECT_DIR$/../casebased-web/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/drizzle.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/hi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/prettier.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/img/blur-dark-roadmaps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/img/blur-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/img/blur-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/img/blur-roadmaps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/img/blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/public/img/blur.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/app/roadmaps/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/assets/blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/home/grid-cards.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/home/pip-install-snipped.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/roadmaps/roadmaps-grid-cards.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/badge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/command-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/command.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/dialog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/icons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/main-nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/components/ui/site-header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/config/site.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/server/db/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/server/db/schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/src/utils/textstyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/start-database.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casebased-web/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2e19S8s1LJxf6X1S3vroMXB3nKP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/lukas/Workspaces/web/typescript/casebasedev/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "/Users/lukas/Workspaces/web/typescript/casebased-web/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b856d8af-1b02-46a5-901f-d6cd92e166ba" name="Changes" comment="" />
+      <created>1711061214168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711061214168</updated>
+      <workItem from="1711061215477" duration="881000" />
+      <workItem from="1711153492270" duration="33569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat:init" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:init" />
+  </component>
+</project>
