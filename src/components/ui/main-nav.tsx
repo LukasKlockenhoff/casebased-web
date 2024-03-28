@@ -7,12 +7,9 @@ import { usePathname } from "next/navigation";
 import { siteConfig } from "@/config/site";
 import { twMerge } from "tailwind-merge";
 import { Icons } from "@/components/ui/icons";
-import { useTheme } from "@geist-ui/core";
 
 export function MainNav() {
   const pathname = usePathname();
-  const theme = useTheme();
-
   return (
     <div className="mr-4 hidden md:flex">
       <Link href="/" className="mr-6 flex items-center space-x-2">

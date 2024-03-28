@@ -2,8 +2,6 @@ import { Button } from "@/components/ui/button";
 import { CodeIcon } from "@radix-ui/react-icons";
 import { twMerge } from "tailwind-merge";
 import { textStyles } from "@/utils/textstyles";
-import PipInstallSnipped from "@/components/home/pip-install-snipped";
-import { HomeGridCards } from "@/components/home/grid-cards";
 import { RoadmapsGridCards } from "@/components/roadmaps/roadmaps-grid-cards";
 import Image from "next/image";
 import roadmapFoundationsLight from "@/assets/roadmaps-foundations-light.png";
