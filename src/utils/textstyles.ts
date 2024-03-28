@@ -1,0 +1,15 @@
+export const textStyles = {
+    h1: "scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl dark:text-white",
+    gradient: "scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl text-transparent bg-clip-text bg-gradient-to-b from-[#3b3b3b] via-[#2b2b2b] to-[#1b1b1b] p-3 dark:text-white",
+    gradient1: "font-sans scroll-m-20 text-5xl font-extrabold tracking-tight lg:text-6xl text-transparent bg-clip-text bg-gradient-to-b from-[#3b3b3b] via-[#2b2b2b] to-[#1b1b1b] p-5 dark:text-white",
+    h2: "mt-10 scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0 dark:text-white",
+    h3: "scroll-m-20 text-2xl font-semibold tracking-tight dark:text-white",
+    h4: "scroll-m-20 text-xl font-semibold tracking-tight dark:text-white",
+    p: "leading-7 [&:not(:first-child)]:mt-6 dark:text-white",
+    quote: "mt-6 border-l-2 pl-6 italic dark:text-white",
+    code: "relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold dark:text-white",
+    lead: "text-xl text-muted-foreground dark:text-white",
+    large: "text-lg font-semibold dark:text-white",
+    small: "text-sm font-medium leading-none dark:text-white",
+    muted: "text-sm text-muted-foreground dark:text-white",
+}
